@@ -15,7 +15,8 @@ In terminal using "Touch" command
 # 7 - Run 'git --version' in your terminal. What is the output?
 git version 2.15.0
 # 8 - Why would you run the command 'git status'?
-To double check if files that were changed are recognized. 
+To double check if files that were changed are recognized.
 # 9 - What does the command 'git add .' do?
 Add any files that were created
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+git push -u origin master
