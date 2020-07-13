@@ -1,9 +1,31 @@
+<style>
 /* Give your page a fun background color */
-
+body {
+  background-color: #FFFFE5;
+}
 /* Make the header and footer a different color from the background */
+header {
+  background-color: #B9CDCA;
+  padding: 20px;
+  font-size: 28px;
+  color: black;
+}
 
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #B9CDCA;
+  padding: 20px;
+  text-align: left;
+  font-size: 20px;
+  color: grey;
+}
 /* Align the h1 containing your name in the center of the header*/
-
+header {
+  text-align: center;
+}
 /* Make your p tag a different color and italic */
 
 /* Put a border around your image */
